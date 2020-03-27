@@ -1,0 +1,20 @@
+.subscribe-form {
+  grid-row: 2/3;
+  grid-column: 1/3;
+  margin-top: 40px;
+  border: 1px solid black;
+  width: 40%;
+  justify-self: center;
+  margin: 20px;
+  padding: 10px;
+}
+
+.button {
+  background-color: transparent;
+}
+
+.sub-link {
+  text-decoration: none;
+  font-size: 15px;
+  color: black;
+}
