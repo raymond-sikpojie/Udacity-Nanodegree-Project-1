@@ -61,11 +61,6 @@ section {
   color: rgb(119, 170, 98);
 }
 
-/* .subscribe-form {
-  margin-top: 40px;
-  border: 1px solid black;
-} */
-
 footer {
   grid-row: 3/4;
   grid-column: 1/2;
