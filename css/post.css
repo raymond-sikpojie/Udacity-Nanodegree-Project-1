@@ -8,34 +8,10 @@ body {
 }
 
 .post-main {
-  /* background-color: yellow; */
-  /* display: flex;
-  flex-direction: column; */
   display: grid;
   grid-template-rows: auto auto auto;
   grid-template-columns: 1fr;
-
-  /* grid-gap: 20px; */
 }
-
-/* header {
-  grid-row: 1/2;
-  grid-column: 1/2;
-  background: rgb(240, 214, 175);
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-}
-
-li {
-  list-style-type: none;
-}
-
-a {
-  text-decoration: none;
-  color: black;
-} */
 
 section {
   grid-row: 2/3;
